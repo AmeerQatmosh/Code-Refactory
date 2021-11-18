@@ -1,7 +1,9 @@
 # Code-Refactory
 Advanced Software Development
 
-List with all changes in Editor.java code:
 
-1. Magic Numbers
-2. IF Statements
+This refactored code addresses the following problems:
+
+1. Poor variable naming
+2. Magic Numbers
+4. IF Statements
