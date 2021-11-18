@@ -1,6 +1,6 @@
 # Code-Refactory
-## Advanced Software Development Assignment 6 solution
+# Advanced Software Development
 
-List with all changes in Editor.java code:
+## List with all changes in Editor.java code:
 
 1.Magic Numbers
