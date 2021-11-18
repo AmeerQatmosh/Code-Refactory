@@ -1,5 +1,5 @@
-# Code-Refactory
-Advanced Software Development
+# Advanced Software Development
+# Code Refactory
 
 This refactored code addresses the following problems:
 
