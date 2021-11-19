@@ -28,7 +28,7 @@ private void saveAsText(String dialogTitle) {
 		} catch (FileNotFoundException e) {
 			e.printStackTrace();
 		}    
-	}
+      }
   
  example 2: 	
  method move in this part of code:
