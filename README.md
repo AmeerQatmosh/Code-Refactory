@@ -32,12 +32,11 @@ private void saveAsText(String dialogTitle) {
   
  example 2: 	
  method move in this part of code:
- 
-   move = new JMenuItem("Move");
-	 move.setMnemonic('M');
-	 move.setAccelerator(KeyStroke.getKeyStroke(KeyEvent.VK_V, InputEvent.CTRL_DOWN_MASK));
-   edit.add(move);
-	 move.addActionListener(this);
+ move = new JMenuItem("Move"); 
+ move.setMnemonic('M');
+ move.setAccelerator(KeyStroke.getKeyStroke(KeyEvent.VK_V, InputEvent.CTRL_DOWN_MASK));
+ edit.add(move);
+ move.addActionListener(this);
    
 ## 4. No needed libraries
 example: java.awt.BorderLayout
