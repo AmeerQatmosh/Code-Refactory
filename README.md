@@ -22,4 +22,6 @@ Also in this refractory code , there are these functions:
 
 All strings are placed in one file called: "Strings.java"
 you can reach it through: 
+
+
 Code-Refactory/SimpleEditor/src/edu/najah/cap/utils/Strings.java 
