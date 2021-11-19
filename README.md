@@ -1,5 +1,4 @@
-# Advanced Software Development
-# Code Refactory
+# Advanced Software Development - Code Refactory
 
 This refactored code addresses the following problems that make it difficult for other programmers to understand the code:
 
@@ -21,7 +20,6 @@ Also in this refractory code , there are these functions:
 9. openPressed()
 10. selectAllPressed()
 
-
-
-
-
+All strings are placed in one file called: "Strings.java"
+you can reach it through: 
+Code-Refactory/SimpleEditor/src/edu/najah/cap/utils/Strings.java 
